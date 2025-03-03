@@ -28,7 +28,7 @@
 # To deploy and test:
   1. Make sure you have Java 11 installed (as specified in pom.xml)
   2. Install Apache Tomcat (version 9.x recommended for Java EE 8)
-  3. Build the project with Maven
+  3. Build the project with Maven by runnig the command:
    ```
       mvn clean package
 ```
